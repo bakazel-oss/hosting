@@ -1,0 +1,400 @@
+body
+{
+   background-color: #000000;
+   background-image: url(images/Screenshot.jpg);
+   background-attachment: fixed;
+   background-position: center center;
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: #000000;
+   font-family: Arial;
+   font-weight: normal;
+   font-size: 13px;
+   line-height: 1.1875;
+   margin: 0;
+   padding: 0;
+}
+#wb_LayoutGrid7
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #CCCCCC;
+   box-sizing: border-box;
+   margin: 0;
+}
+#LayoutGrid7
+{
+   box-sizing: border-box;
+   padding: 10px 0px 10px 0px;
+   margin-right: auto;
+   margin-left: auto;
+   max-width: 976px;
+}
+#LayoutGrid7 > .row
+{
+   margin-right: 0;
+   margin-left: 0;
+}
+#LayoutGrid7 > .row > .col-1
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 0px;
+   padding-left: 0px;
+   position: relative;
+}
+#LayoutGrid7 > .row > .col-1
+{
+   float: left;
+}
+#LayoutGrid7 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 100%;
+   text-align: center;
+}
+#LayoutGrid7:before,
+#LayoutGrid7:after,
+#LayoutGrid7 .row:before,
+#LayoutGrid7 .row:after
+{
+   display: table;
+   content: " ";
+}
+#LayoutGrid7:after,
+#LayoutGrid7 .row:after
+{
+   clear: both;
+}
+@media (max-width: 480px)
+{
+#LayoutGrid7 > .row > .col-1
+{
+   float: none;
+   width: 100%;
+}
+}
+#wb_contact
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   box-sizing: border-box;
+   margin: 0;
+}
+#contact
+{
+   box-sizing: border-box;
+   padding: 50px 15px 50px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#contact > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#contact > .row > .col-1, #contact > .row > .col-2
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#contact > .row > .col-1, #contact > .row > .col-2
+{
+   float: left;
+}
+#contact > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 50%;
+   text-align: center;
+}
+#contact > .row > .col-2
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 50%;
+   text-align: center;
+}
+#contact:before,
+#contact:after,
+#contact .row:before,
+#contact .row:after
+{
+   display: table;
+   content: " ";
+}
+#contact:after,
+#contact .row:after
+{
+   clear: both;
+}
+@media (max-width: 768px)
+{
+#contact > .row > .col-1, #contact > .row > .col-2
+{
+   float: none;
+   width: 100%;
+}
+}
+#wb_LayoutGrid5
+{
+   clear: both;
+   position: relative;
+   table-layout: fixed;
+   display: table;
+   text-align: center;
+   width: 100%;
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   box-sizing: border-box;
+   margin: 0;
+}
+#LayoutGrid5
+{
+   box-sizing: border-box;
+   padding: 0px 15px 0px 15px;
+   margin-right: auto;
+   margin-left: auto;
+}
+#LayoutGrid5 > .row
+{
+   margin-right: -15px;
+   margin-left: -15px;
+}
+#LayoutGrid5 > .row > .col-1
+{
+   box-sizing: border-box;
+   font-size: 0px;
+   min-height: 1px;
+   padding-right: 15px;
+   padding-left: 15px;
+   position: relative;
+}
+#LayoutGrid5 > .row > .col-1
+{
+   float: left;
+}
+#LayoutGrid5 > .row > .col-1
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #FFFFFF;
+   width: 100%;
+   text-align: center;
+}
+#LayoutGrid5:before,
+#LayoutGrid5:after,
+#LayoutGrid5 .row:before,
+#LayoutGrid5 .row:after
+{
+   display: table;
+   content: " ";
+}
+#LayoutGrid5:after,
+#LayoutGrid5 .row:after
+{
+   clear: both;
+}
+@media (max-width: 768px)
+{
+#LayoutGrid5 > .row > .col-1
+{
+   float: none;
+   width: 100%;
+}
+}
+#wb_Text2 
+{
+   background-color: transparent;
+   background-image: none;
+   border: 0px solid #000000;
+   padding: 25px 0px 25px 0px;
+   margin: 0;
+   text-align: center;
+}
+#wb_Text2 div
+{
+   text-align: center;
+}
+#Button1
+{
+   line-height: 65px;
+   text-align: center;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: "Hot Fire";
+   font-weight: normal;
+   font-style: italic;
+   font-size: 13px;
+   box-shadow: 3px 3px 3px #000000;
+   -webkit-appearance: none;
+   margin: 0;
+}
+#Button2
+{
+   line-height: 65px;
+   text-align: center;
+   text-decoration: none;
+   vertical-align: top;
+   border: 1px solid #2E6DA4;
+   border-radius: 4px;
+   background-color: #3370B7;
+   background-image: none;
+   color: #FFFFFF;
+   font-family: "Hot Fire";
+   font-weight: normal;
+   font-style: italic;
+   font-size: 13px;
+   box-shadow: 3px 3px 3px #000000;
+   -webkit-appearance: none;
+   margin: 0;
+}
+  body {
+    margin:0;
+    overflow:hidden;
+    font-family: Arial, sans-serif;
+    background: #222;
+  }
+
+  html, body {
+    overscroll-behavior: none; /* 🚫 evita "rebote" scroll */
+    touch-action: none;        /* 🚫 evita scroll por gestos */
+  }
+
+  #gameContainer {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+  }
+
+  canvas {
+    border: 3px solid white;
+    border-radius: 12px;
+    background:black;
+    max-width: 100%;
+    max-height: 100%;
+  }
+
+  /* OVERLAY GAME OVER / NIVEL COMPLETADO */
+  #overlay {
+    position: absolute;
+    top:0; left:0;
+    width:100%;
+    height:100%;
+    background: rgba(0,0,0,0.7);
+    display: none;
+    justify-content:center;
+    align-items:center;
+    flex-direction: column;
+    z-index:20;
+  }
+  #overlay h1 {
+    color: white;
+    text-shadow: 2px 2px 5px black;
+    margin-bottom:20px;
+  }
+  #overlay button {
+    width:180px;
+    padding:12px;
+    margin:8px;
+    font-size:18px;
+    border:none;
+    border-radius:10px;
+    font-weight:bold;
+    cursor:pointer;
+    color:white;
+  }
+  #btnRetry { background:#ff4444; }
+  #btnNextLevel { background:#ff9900; }
+    /* Estilos responsive base */
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: Arial, sans-serif;
+    }
+
+    .contenedor {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+      font-size: 2rem;
+    }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+    }
+      /* Bloquea el scroll horizontal */
+    html, body {
+      margin: 0;
+      padding: 0;
+      width: 100%;
+      overflow-x: hidden; /* evita desplazamiento lateral */
+      font-family: Arial, sans-serif;
+      text-align: center; /* centra el contenido por defecto */
+    }
+
+    .contenedor {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 20px;
+    }
+
+    h1 {
+      font-size: 2rem;
+    }
+
+    p {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+
+    img {
+      max-width: 100%;
+      height: auto;
+      display: block;
+      margin: 0 auto; /* centra las imágenes */
+    }
+  
